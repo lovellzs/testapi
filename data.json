@@ -1,0 +1,20 @@
+{
+  "create_at":190011,
+  "client_url":"app://home/chat",
+  "users":[
+    {
+      "desc": "",
+      "id": 427,
+      "name": "susion随心",
+      "type": 0
+    },
+    {
+      "desc": "",
+      "id": 428,
+      "name": "程序亦非猿",
+      "type": 0,
+    }
+  ],
+  "errorCode":0,
+  "errorMsg":""
+}
